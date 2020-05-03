@@ -12,7 +12,7 @@ As far as styling goes spend some time making it look however you want it to but
 There are three features we want you to implement, I suggest developing them one at a time in the following order:
 
 1. List all the Star Wars characters by first and last name. Use swapi (Star Wars API) for this.
-   The following **GET** request will retrieve all characters and their related information `https://swapi.dev.api/people`.
+   The following **GET** request will retrieve all characters and their related information `https://swapi.dev.api/people`.
    You can read all of the documentation for the API [here](https://swapi.dev/).
 
 2. Display additional information about the characters when their names are clicked. The user should also be able to hide this information again. You can pick a couple of properties to show based on what you get from the API.
@@ -24,7 +24,7 @@ There are three features we want you to implement, I suggest developing them one
 You can create your own project from scratch or you can clone this one that has a basic project setup.
 If you choose to clone this one you will need to install [Node.js](https://nodejs.org/en/z`).
 
-You can then execute `npm start` in your terminal while inside the project directory to launch the application in the web with auto refresh when you save file changes.
+You can then execute `npm start` in your terminal while inside the project directory to launch the application in the web with auto refresh when you save file changes.
 
 ## Delivery
 
