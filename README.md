@@ -12,7 +12,7 @@ As far as styling goes spend some time making it look however you want it to but
 There are three features we want you to implement, I suggest developing them one at a time in the following order:
 
 1. List all the Star Wars characters by first and last name. Use swapi (Star Wars API) for this.
-   The following **GET** request will retrieve all characters and their related information `https://swapi.dev.api/people`.
+   The following **GET** request will retrieve a list of characters and their related information `https://swapi.dev.api/people`. It uses pagination meaning you will have to either keep requesting based on the next url that is sent as part of the response or you can implement pagination in the application as well.
    You can read all of the documentation for the API [here](https://swapi.dev/).
 
 2. Display additional information about the characters when their names are clicked. The user should also be able to hide this information again. You can pick a couple of properties to show based on what you get from the API.
