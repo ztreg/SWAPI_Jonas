@@ -1,0 +1,7 @@
+--fetch characters
+--create table with firstname and lastname
+--add data from fetch to table
+
+-? pagination for characters
+
+implement clicking specific characters for more info
