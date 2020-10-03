@@ -1,15 +1,17 @@
 <template>
   <q-page class="flex flex-center">
-    <FetchCharacters></FetchCharacters>
+    <FetchCharacters2></FetchCharacters2>
   </q-page>
 </template>
 
 <script>
-import FetchCharacters from '../components/FetchCharacters'
+import FetchCharacters2 from '../components/FetchCharacters2'
+// import FetchCharacters from '../components/FetchCharacters'
 export default {
   name: 'PageIndex',
   components: {
-    FetchCharacters
+    // FetchCharacters,
+    FetchCharacters2
   }
 }
 </script>
