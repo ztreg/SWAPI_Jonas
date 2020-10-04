@@ -2,4 +2,4 @@
 
 # start: npm start
 
-- Made with Quasar(vue) and Swapapi https://swapi.dev/documentation
+- Made with Quasar(vue) and Swapi https://swapi.dev/documentation
