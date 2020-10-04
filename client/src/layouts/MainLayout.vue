@@ -74,9 +74,7 @@ export default {
     }
   },
   mounted () {
-    console.log(this.leftDrawerOpen)
     this.leftDrawerOpen = false
-    console.log(this.leftDrawerOpen)
   },
   methods: {
     closeBurger () {
